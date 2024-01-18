@@ -1,4 +1,6 @@
 # Deep Learning for NLP Course 2023
+## book/projects/202021013 - 프로젝트 제안서 및 결과보고서
+## src/202021013 - 프로젝트 코드
 
 [![version-image]][release-url]
 [![release-date-image]][release-url]
