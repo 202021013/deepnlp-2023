@@ -73,7 +73,7 @@ _Prepared by: 김지연\_202021013_
      LORA_ALPHA=32
      LORA_DROPOUT=0.05
      PUSH_TO_HUB="False"
-     HF_TOKEN=${HF_TOKEN:="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"}
+     HF_TOKEN=${HF_TOKEN:=""}
      REPO_ID="username/repo_name"
      ```
 
